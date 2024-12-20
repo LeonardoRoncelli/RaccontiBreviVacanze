@@ -13,5 +13,4 @@ public class TestoCensurato extends Testo{
     public String toString(){
         return "La parola proibita è: "+parolaProibita;
     }
-
 }
